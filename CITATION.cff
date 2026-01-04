@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use Collapse Index (CI) in your research, please cite it as below."
+authors:
+  - family-names: Kwon
+    given-names: Alex
+    orcid: https://orcid.org/0009-0002-2566-5538
+title: "Collapse Index (CI) GitHub README"
+version: v2.0.0
+date-released: 2026-01-03
+url: https://github.com/collapseindex/collapseindex
+repository-code: https://github.com/collapseindex/collapseindex
+license: proprietary
+type: software
+keywords:
+  - machine learning
+  - model evaluation
+  - robustness testing
+  - structural stability
+  - collapse detection
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17718180
+    description: Framework Paper DOI
+references:
+  - type: article
+    authors:
+      - family-names: Kwon
+        given-names: Alex
+    title: "Collapse Index: A Diagnostic Framework for Detecting Silent Instability in ML Systems"
+    year: 2025
+    doi: 10.5281/zenodo.17718180
