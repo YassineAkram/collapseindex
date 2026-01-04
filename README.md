@@ -623,7 +623,7 @@ Any third-party code claiming to implement CI or Collapse Log is:
 If you reference Collapse Index (CI) in your research or evaluations, please cite:
 
 ```bibtex
-@misc{kwon2026collapseindex,
+@misc{kwon2025collapseindex,
   author = {Kwon, Alex},
   title = {Collapse Index (CI) GitHub README},
   year = {2026},
