@@ -26,6 +26,7 @@ references:
     authors:
       - family-names: Kwon
         given-names: Alex
-    title: "Collapse Index: A Diagnostic Framework for Detecting Silent Instability in ML Systems"
+    title: "Collapse Index (CI): A Diagnostic Framework for Bounded, Lightweight, and Reproducible Evaluation of System Instability"
     year: 2025
     doi: 10.5281/zenodo.17718180
+
