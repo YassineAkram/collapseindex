@@ -46,7 +46,7 @@ You may reference or cite materials from this site with clear attribution to Col
 
 ## Protected Technologies
 
-### Collapse Index™ (CI)
+### Collapse Index (CI)
 Proprietary diagnostic framework for measuring system instability under perturbation. All calculation algorithms, scoring methodologies, interpretation frameworks, and diagnostic outputs are protected intellectual property.
 
 ### Structural Retention Index (SRI)
@@ -55,16 +55,16 @@ Proprietary stability assessment metric for internal decision structure preserva
 **Published Research:** [DOI: 10.5281/zenodo.18016507](https://doi.org/10.5281/zenodo.18016507)  
 **Validation Code (MIT):** [github.com/collapseindex/ci-sri](https://github.com/collapseindex/ci-sri)
 
-### Collapse Log™
+### Collapse Log
 Proprietary audit-grade logging and diagnostic framework. All log formats, recording methodologies, interpretive systems, bundling processes, and reporting structures are protected intellectual property.
 
 ### CSI Triage
 Proprietary classification and triage system for collapse severity assessment. All taxonomies, classification algorithms, type definitions, severity metrics, and triage protocols are protected intellectual property.
 
-### CI Judge™
+### CI Judge
 Proprietary LLM-based drift detection and calibration system. All detection algorithms, statistical methodologies, calibration techniques, and implementation architectures are protected intellectual property.
 
-### CIWrap™
+### CIWrap
 Proprietary semantic stability wrapper and drift prevention system. All wrapper architectures, semantic contracts, monitoring systems, prevention mechanisms, and integration frameworks are protected intellectual property.
 
 ---
