@@ -1,6 +1,6 @@
-# License for Collapse Index Technology (v2.0.0)
+# License for Collapse Index Technology (v3.0.0)
 
-**Collapse Index™ (CI)**, **Structural Retention Index (SRI)**, **Collapse Log™**, **CI Judge™**, and **CIWrap™** are proprietary diagnostic frameworks and technologies developed by Collapse Index Labs (Alex Kwon).
+**Collapse Index™**, **SRI**, and all related technologies are proprietary diagnostic frameworks developed by Collapse Index Labs (Alex Kwon). See Protected Technologies section below for complete list.
 
 Collapse Index™ (CI) is a derivative instantiation of Vector-0.  
 This CI License (v2.0) supplements and inherits the terms of the **Vector-0 Research License**,  
@@ -23,7 +23,7 @@ Collapse Index Labs operates as both a research initiative and a commercial serv
 
 ## Intellectual Property Rights
 
-All content, methodology, code, datasets, and branding—including the names **"Collapse Index"**, **"SRI"** (Structural Retention Index), **"CI Judge™"**, **"CIWrap™"**, **"Collapse Log"**, **"CSI Triage"**, and associated logos—are the exclusive intellectual property of Collapse Index Labs and Alex Kwon.
+All content, methodology, code, datasets, and branding—including the names **"Collapse Index"**, **"SRI"** (Structural Retention Index), **"CI Judge™"**, **"CIWrap™"**, **"Collapse Log"**, **"CSI Triage"**, **"CI-Guided Curation"**, **"Trinity System"**, **"Collapse Index CLI"**, **"Difficulty Mapping"**, and associated logos—are the exclusive intellectual property of Collapse Index Labs and Alex Kwon.
 
 Nothing in these terms grants you a right or license to use any trade names, trademarks, service marks, or other distinctive brand features without express written consent. Unauthorized use of our proprietary technology, reverse engineering of our evaluation pipelines, or theft of our dataset methodologies will be pursued to the fullest extent of the law.
 
@@ -46,7 +46,7 @@ You may reference or cite materials from this site with clear attribution to Col
 
 ## Protected Technologies
 
-### Collapse Index (CI)
+### Collapse Index™ (CI)
 Proprietary diagnostic framework for measuring system instability under perturbation. All calculation algorithms, scoring methodologies, interpretation frameworks, and diagnostic outputs are protected intellectual property.
 
 ### Structural Retention Index (SRI)
@@ -55,17 +55,34 @@ Proprietary stability assessment metric for internal decision structure preserva
 **Published Research:** [DOI: 10.5281/zenodo.18016507](https://doi.org/10.5281/zenodo.18016507)  
 **Validation Code (MIT):** [github.com/collapseindex/ci-sri](https://github.com/collapseindex/ci-sri)
 
-### Collapse Log
+### Collapse Log™
 Proprietary audit-grade logging and diagnostic framework. All log formats, recording methodologies, interpretive systems, bundling processes, and reporting structures are protected intellectual property.
 
 ### CSI Triage
 Proprietary classification and triage system for collapse severity assessment. All taxonomies, classification algorithms, type definitions, severity metrics, and triage protocols are protected intellectual property.
 
-### CI Judge
+### CI Judge™
 Proprietary LLM-based drift detection and calibration system. All detection algorithms, statistical methodologies, calibration techniques, and implementation architectures are protected intellectual property.
 
-### CIWrap
+### CIWrap™
 Proprietary semantic stability wrapper and drift prevention system. All wrapper architectures, semantic contracts, monitoring systems, prevention mechanisms, and integration frameworks are protected intellectual property.
+
+### CI-Guided Curation™
+Proprietary data curation system using prediction instability to detect label noise. All curation algorithms, difficulty mapping systems (easy/medium/hard/dangerous classification), training action assignments (include/amplify/review/downweight/quarantine), Type I error detection, and curriculum learning integrations are protected intellectual property.
+
+**Validated Results:** 40% accuracy gap recovery on noisy data.  
+**Validation Code (MIT):** [github.com/collapseindex/ci-curation](https://github.com/collapseindex/ci-curation)
+
+### Trinity System™
+Proprietary multi-signal diagnostic framework combining CI, SRI, and Confidence calibration. All signal combination algorithms, verdict generation systems, stability profile definitions, AUC-based signal ranking, and complementarity mechanisms are protected intellectual property.
+
+### Collapse Index CLI™
+Proprietary command-line interface for collapse index analysis, inference, curation, and reporting. All CLI architectures, interactive menu systems, batch processing pipelines, sealed bundle generation, and integration frameworks are protected intellectual property.
+
+**Repository:** [github.com/collapseindex/collapse-index-cli](https://github.com/collapseindex/collapse-index-cli)
+
+### Difficulty Mapping
+Proprietary sample-level classification system for training data quality. All difficulty tier definitions, CSI-to-difficulty mappings, training action algorithms, and curriculum learning recommendations are protected intellectual property.
 
 ---
 
