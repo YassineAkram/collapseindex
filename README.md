@@ -16,6 +16,10 @@
 
 ---
 
+> 🚀 **Free Pilot Program:** Get a full CI evaluation on your dataset (up to 5k rows + 3 variants). Includes Collapse Log + HTML report + abstention analysis. No credit card required. [Apply →](https://collapseindex.org/evals.html)
+
+---
+
 ## 📄 Validation Studies
 
 <table>
@@ -142,6 +146,22 @@ When these signals **disagree**, that divergence is the early warning.
 - ❌ Confidence remains high or even increases
 
 **This is worse than an obviously uncertain model—it fails confidently and silently.**
+
+### Real Example
+
+```
+Input: "The patient shows no signs of deterioration"
+Paraphrase: "The patient exhibits no deterioration symptoms"
+
+Model output:
+• Original: "STABLE" (confidence: 0.94)
+• Paraphrase: "UNSTABLE" (confidence: 0.91)
+• CI: 0.99 (complete flip)
+• SRI: 0.15 (structural collapse)
+• Confidence: never flagged uncertainty
+```
+
+Standard metrics saw nothing wrong. **Structural signals caught it immediately.**
 
 ---
 
@@ -322,7 +342,34 @@ These are the cases that pass QA but fail in production under real-world stress.
 
 ---
 
-## 🔌 Integration Requirements
+## � Abstention Analysis
+
+**Abstention Analysis** identifies cases where models should have refused to answer instead of confidently failing.
+
+### The Problem
+
+Models rarely say "I don't know." Instead, they:
+- Output confident predictions on ambiguous inputs
+- Flip answers under paraphrases while maintaining high confidence
+- Pass QA checks but fail silently in production
+
+### What Abstention Analysis Does
+
+- **Flags abstention candidates:** Cases where CI detects instability but confidence remains high
+- **Quantifies silent failures:** How often does the model confidently fail when it should abstain?
+- **Provides annotated datasets:** Each flagged case includes CI/SRI scores, confidence, and flip patterns
+
+### Why It Matters
+
+A well-calibrated model should abstain on ambiguous inputs rather than confidently fail. Abstention analysis surfaces the cases where confident predictions mask underlying instability.
+
+**Key insight:** The most dangerous failures aren't low-confidence mistakes. They're high-confidence collapses that bypass traditional monitoring.
+
+👉 **Free abstention analysis included** with all CI evaluations. [Learn more →](https://collapseindex.org/evals.html)
+
+---
+
+## �🔌 Integration Requirements
 
 ### Required Data Format
 
@@ -630,7 +677,8 @@ If you reference Collapse Index (CI) in your research or evaluations, please cit
   publisher = {Collapse Index Labs},
   howpublished = {\url{https://github.com/collapseindex/collapseindex}},
   version = {v2.0.0},
-  note = {Framework Paper DOI: 10.5281/zenodo.17718180}
+  note = {Framework Paper DOI: 10.5281/zenodo.17718180},
+  orcid = {0009-0002-2566-5538}
 }
 ```
 
@@ -645,8 +693,16 @@ Collapse Index Labs (Alex Kwon)
 **For evals, datasets, collaborations, or pilots:**  
 📩 **ask@collapseindex.org**
 
-**For evaluation services:**  
-🌐 Visit [Collapse Index Evals](https://collapseindex.org/evals.html) for more information
+---
+
+### 🔬 Get Your Model Evaluated
+
+**Don't have time to set up CI yourself?**
+
+🌐 [**Collapse Index Evals Service**](https://collapseindex.org/evals.html)  
+
+Full evaluation + Collapse Log + HTML report + abstention analysis.  
+**Free pilot available** for startups, organizations, and research teams.
 
 ---
 
